@@ -1,5 +1,5 @@
 {
-  "pl.mikolaj.kantor": {"versionCode": 5, "versionName": "1.4", "file": "kantor-v1.4.apk", "notes": "Przewidywany gest Wstecz na Androidzie 16 najpierw zamyka menu i okna. W menu jest nowa pozycja „Co nowego”."},
+  "pl.mikolaj.kantor": {"versionCode": 6, "versionName": "1.5", "file": "kantor-v1.5.apk", "notes": "Mądry procent: 200 + 23% daje 246, 200 − 2% daje 196, a pod wyrażeniem widać, ile to procent od podstawy."},
   "pl.kapitan.kalkulatory": {"versionCode": 14, "versionName": "1.13", "file": "kalkulatory-v1.13.apk", "notes": "Stuknij wyliczone tempo, czas, dystans, międzyczas albo kalorie, a wartość trafi do schowka. Gest Wstecz na Androidzie 16 najpierw zamyka menu."},
   "pl.mikolaj.pogodynka": {"versionCode": 16, "versionName": "3.2", "file": "pogodynka-v3.2.apk", "notes": "Przewidywany gest Wstecz na Androidzie 16 najpierw zamyka menu, okna i panele. W menu jest nowa pozycja „Co nowego”."}
 }
